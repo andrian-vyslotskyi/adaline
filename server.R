@@ -28,10 +28,6 @@ train <- function(epoch, x, y, w, q) {
 }
 ###
 
-###ls###
-
-
-
 
 ###server###
 shinyServer(function(input, output) {
@@ -74,6 +70,5 @@ shinyServer(function(input, output) {
     
     all
   })
-  
   
 })

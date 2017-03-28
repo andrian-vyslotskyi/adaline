@@ -3,7 +3,7 @@ library(shiny)
 shinyUI(fluidPage(
   
   # Application title
-  titlePanel("Time series GRNN"),
+  titlePanel("Less square and Adaline regressions"),
   
   # Sidebar with a slider input for number of bins 
   sidebarLayout(
